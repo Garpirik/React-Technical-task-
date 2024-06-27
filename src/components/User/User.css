@@ -1,0 +1,13 @@
+.grid_block{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+div{
+    background-color: rgba(0, 0, 0, 0.534);
+}
+
